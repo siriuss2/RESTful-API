@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "d+E/AiItIbYvuF7XCinYNZ1NWgXZsG+RXjMvN2LJaHQ=",
+  "Source": "Class01",
+  "BasePath": "_content/Class01",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Class01\\wwwroot",
+      "Source": "Class01",
+      "ContentRoot": "C:\\Users\\Dragan\\Desktop\\RESTful-API\\Class01\\Class01\\wwwroot\\",
+      "BasePath": "_content/Class01",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
